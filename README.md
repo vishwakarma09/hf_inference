@@ -1,5 +1,9 @@
 # HF inference experiments
 
 ## Experiment 1
-python file experiment1.py
-output outcomd_experiment1.md
+
+Experiment to leverage smol agent to create managed agents. The `ToolCallingAgent` calls `DuckDuckGoSearchTool` and processes using `visit_webpage` tool.
+
+# Experiment 2
+
+Experiment uses simple agent using planning interval
