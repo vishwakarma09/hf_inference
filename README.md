@@ -7,3 +7,7 @@ Experiment to leverage smol agent to create managed agents. The `ToolCallingAgen
 # Experiment 2
 
 Experiment uses simple agent using planning interval
+
+# Experiment 3
+
+Experiment to use `sql_engine` to get SQL query.
